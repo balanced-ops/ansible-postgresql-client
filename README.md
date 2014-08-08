@@ -1,3 +1,3 @@
-## PostgreSQL Client [![Build Status](https://magnum.travis-ci.com/balanced-cookbooks/ansible-postgresql-client.png)](https://magnum.travis-ci.com/balanced-cookbooks/ansible-postgresql-client)
+## PostgreSQL Client [![Build Status](https://magnum.travis-ci.com/balanced-cookbooks/ansible-posgresql-client.svg?token=ykTaJtscxcuMJxYq2Nt5&branch=master)](https://magnum.travis-ci.com/balanced-cookbooks/ansible-posgresql-client)
 
-Adapted (i.e. exclude server) from [here](https://github.com/Ansibles/postgresql).
+Adapted (excluded server) from [here](https://github.com/Ansibles/postgresql).
